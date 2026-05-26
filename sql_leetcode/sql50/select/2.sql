@@ -53,5 +53,5 @@ Output:
 
 SELECT name
 FROM Customer
-WHERE referee_id IS NULL
-OR referee_id != 2;
+WHERE referee_id != 2 
+OR referee_id IS NULL;
