@@ -93,8 +93,7 @@ WHERE rn = 1;
 
 --8. What is the total items and amount spent for each member before they became a member?
 
-SELECT 
-s.customer_id,
+SELECT s.customer_id,
 COUNT(*) AS total_items,
 SUM(me.price) AS total_amount
 FROM sales s
