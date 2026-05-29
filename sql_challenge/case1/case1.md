@@ -2,7 +2,7 @@
 
 ## Entity Relationship Diagram
 
-<img src="images/diagram1.png" style="width:100%; height:auto;">
+<img src="images/diagram1.png" style="width:70%; height:auto;">
 
 ## Table: dannys_diner
 
