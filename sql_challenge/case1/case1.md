@@ -1,7 +1,5 @@
 # Case Study 1 - Danny's Diner
 
-## Entity Relationship Diagram
-
 <img src="images/diagram1.png" style="width:70%; height:auto;">
 
 ## Table: dannys_diner
