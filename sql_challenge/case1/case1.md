@@ -54,6 +54,9 @@
 | B           | 74         |
 | C           | 36         |
 
+<br>
+</br>
+
 2. How many days has each customer visited the restaurant?
 
 | customer_id | visit_days |
@@ -61,6 +64,9 @@
 | A           | 4         |
 | B           | 6         |
 | C           | 2         |
+
+<br>
+</br>
 
 3. What was the first item from the menu purchased by each customer?
 
@@ -72,6 +78,9 @@
 | C           | ramen       |
 | C           | ramen       |
 
+<br>
+</br>
+
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
 | product_id | product_name | total_qty |
@@ -79,6 +88,10 @@
 | 3          | ramen       | 8         |
 | 2          | curry       | 4         |
 | 1          | sushi       | 3         |
+
+
+<br>
+</br>
 
 5. Which item was the most popular for each customer?
 
@@ -90,6 +103,9 @@
 | B           | sushi        | 2            |
 | C           | ramen        | 3            |
 
+<br>
+</br>
+
 6. Which item was purchased first by the customer after they became a member?
 
 | customer_id | product_name | order_date  |
@@ -97,12 +113,8 @@
 | A           | ramen       | 2021-01-10  |
 | B           | sushi       | 2021-01-11  |
 
-7. Which item was purchased just before the customer became a member?
-
-| customer_id | product_name | order_date  |
-|-------------|-------------|-------------|
-| A           | sushi       | 2021-01-01  |
-| B           | sushi       | 2021-01-04  |
+<br>
+</br>
 
 8. What is the total items and amount spent for each member before they became a member?
 
@@ -110,6 +122,9 @@
 |-------------|-------------|--------------|
 | B           | 3           | 40           |
 | A           | 2           | 25           |
+
+<br>
+</br>
 
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
@@ -119,9 +134,15 @@
 | B           | 940          |
 | C           | 360          |
 
+<br>
+</br>
+
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 | customer_id | total_points |
 |-------------|--------------|
 | A           | 1370         |
 | B           | 820          |
+
+<br>
+</br>
