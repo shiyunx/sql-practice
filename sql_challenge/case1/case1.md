@@ -1,4 +1,4 @@
-# Case Study 1 - Danny's Diner
+# Case 1 - Danny's Diner
 
 <img src="images/diagram1.png" style="width:70%; height:auto;">
 
